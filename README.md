@@ -84,8 +84,17 @@ Startup idea to connect founders and investors faster.
 ---
 
 ### 🧠 AI & Productivity Tools
+---
+
+### 🧠 AI & Productivity Tools
 <p align="center">
-  <img sr
+  <img src="https://img.shields.io/badge/Replit-FF3A2D?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-7C4CFF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt-FF6F00?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=waveform&logoColor=white" />
+</p>
 
 
 ## 📊 GitHub Stats
@@ -95,8 +104,6 @@ Startup idea to connect founders and investors faster.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-![N4T-C GitHub stats](https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true)
 
 
 🐍 Contribution Snake
