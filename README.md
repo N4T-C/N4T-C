@@ -54,16 +54,25 @@ Startup idea to connect founders and investors faster.
 🔗 Repo: https://github.com/N4T-C/CoFound
 
 🛠 Tech Stack
-Frontend
 
-Backend
+Frontend : HTML5
 
-Database & Cloud
+Backend : SQLITE
 
-Tools
+Database & Cloud : GOOGLE CLOUD SERVICES
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+Tools : REPLIT, GOOGLE AI STUDIO, GROK, CHATGPT, BOLT, ELEVENLABS, etc...
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+![N4T-C GitHub stats](https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true)
+
 
 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/N4T-C/N4T-C/output/github-contribution-grid-snake.svg)
