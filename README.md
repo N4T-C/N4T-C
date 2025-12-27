@@ -6,6 +6,16 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=N4T-C&label=Profile%20views&color=0e75b6)](https://github.com/N4T-C)
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+N4T-C+👋;Full+Stack+Developer;Building+Real+World+Systems;EZFOODZ+%7C+Traffic+Simulation;Learning+AI+%26+System+Design" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=N4T-C&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/N4T-C?style=for-the-badge&color=cyan" />
+</p>
+
+---
 
 ## About me
 - 🔭 I build pragmatic full-stack and systems projects (hackathon & college projects).
@@ -16,70 +26,55 @@
 
 ---
 
-## Featured Projects
-(Click a project to open it on GitHub — demo GIFs are optional; replace the image URLs with your actual demo GIFs/screenshots if you have them)
 
-- [smart-traffic-management-simulation](https://github.com/N4T-C/smart-traffic-management-simulation) — Smart India Hackathon project to relieve heavy traffic using scheduling algorithms and simulation-driven light scheduling.  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Algorithms](https://img.shields.io/badge/Area-Scheduling-blue)  
-  Demo (replace URL with your repo/demo GIF):  
-  <a href="https://github.com/N4T-C/smart-traffic-management-simulation"><img src="https://raw.githubusercontent.com/N4T-C/N4T-C/main/assets/smart-traffic-demo.gif" alt="smart traffic demo" width="320"></a>
+🌟 Featured Projects
+🍔 EZFOODZ
+Intra-college canteen ordering system
 
-- [EZFOODZ](https://github.com/N4T-C/EZFOODZ) — Intra-college canteen ordering system: students order from their phones for quick access to hostel canteens.  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-  Demo (replace URL):  
-  <a href="https://github.com/N4T-C/EZFOODZ"><img src="https://raw.githubusercontent.com/N4T-C/N4T-C/main/assets/ezfoodz-demo.gif" alt="ezfoodz demo" width="320"></a>
+Flask + PostgreSQL
 
-- [NatNewEZFOODZ](https://github.com/N4T-C/NatNewEZFOODZ) — Base/version of EZFOODZ initially built with Google AI Studio (prototype + AI-assisted features).  
-  ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white) ![Prototype](https://img.shields.io/badge/Prototype-AI-green)
+Mobile-friendly UI
 
-- [CoFound](https://github.com/N4T-C/CoFound) — Startup idea / platform to connect new entrepreneurs with investors to streamline discovery.  
-  ![MVP](https://img.shields.io/badge/MVP-idea-purple) ![Web](https://img.shields.io/badge/Web-app-blue)
+Real student deployment
 
-- [Java-Mini-Project](https://github.com/N4T-C/Java-Mini-Project) — Tamagotchi-style terminal pet recreation demonstrating OOP concepts in Java.  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-CLI-darkgrey)
+🔗 Repo: https://github.com/natcssn/ezfoodz-official
 
-- [traffic-system-temp](https://github.com/N4T-C/traffic-system-temp) — Skeleton / scaffold for the smart traffic management system (starter code & architecture).  
-  ![Architecture](https://img.shields.io/badge/Scaffold-Template-lightgrey)
+🚦 Smart Traffic Management System
+Scheduling algorithms
 
-Notes:
-- To add a demo GIF for a project, create an `assets/` folder in the repo (or use any public URL) and replace the demo image src URLs above with the real GIF paths.
-- The badges next to each project are generated via shields.io; edit or add badges to reflect actual tech stacks per repo.
+Simulation-based traffic lights
 
----
+Smart India Hackathon project
 
-## Quick tech overview & auto-generated badges
-Languages, frameworks and AI / tools I use:
+🔗 Repo: https://github.com/N4T-C/smart-traffic-management-simulation
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-shell-000000?style=flat&logo=gnu)
+🚀 CoFound
+Startup idea to connect founders and investors faster.
 
-AI / assistant tools & platforms:
-![Replit](https://img.shields.io/badge/Replit-FF3A2D?style=flat&logo=replit&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-7c4cff?style=flat)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini-2B7CE9?style=flat)
-![Bolt](https://img.shields.io/badge/Bolt-ff6f00?style=flat)
-![Emergent](https://img.shields.io/badge/Emergent-444?style=flat)
+🔗 Repo: https://github.com/N4T-C/CoFound
 
-(If you prefer a different set of logos/colors or want per-project badge automation, I can produce a small script that scans each repo's primary language and creates matching shields.)
+🛠 Tech Stack
+Frontend
 
----
+Backend
 
-## GitHub Stats
-[![N4T-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=radical&count_private=true)](https://github.com/N4T-C)
+Database & Cloud
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=radical)](https://github.com/N4T-C)
+Tools
 
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+🐍 Contribution Snake
 
-## Want to collaborate / contact
-- GitHub: [@N4T-C](https://github.com/N4T-C)  
-- Email: nathanielc2007@gmail.com  
-- Ideas/Collabs: Open to working on campus-tech, student utilities, and early-stage startup tools.
+🤝 Connect With Me
+📧 Email: nathanielc2007@gmail.com
+
+💼 GitHub: https://github.com/N4T-C
+
+🚀 Open to: campus tech, startup MVPs, AI apps
+
+yaml
+Copy code
 
 ---
 
