@@ -84,9 +84,6 @@ Startup idea to connect founders and investors faster.
 ---
 
 ### 🧠 AI & Productivity Tools
----
-
-### 🧠 AI & Productivity Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Replit-FF3A2D?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
