@@ -73,8 +73,5 @@ Tools
 
 🚀 Open to: campus tech, startup MVPs, AI apps
 
-yaml
-Copy code
-
 ---
 
