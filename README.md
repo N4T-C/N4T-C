@@ -65,6 +65,8 @@ Tools
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N4T-C&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4T-C&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
 🐍 Contribution Snake
+![Snake animation](https://github.com/N4T-C/N4T-C/blob/output/github-contribution-grid-snake.svg)
+
 
 🤝 Connect With Me
 📧 Email: nathanielc2007@gmail.com
