@@ -53,15 +53,40 @@ Startup idea to connect founders and investors faster.
 
 🔗 Repo: https://github.com/N4T-C/CoFound
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Frontend : HTML5
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
 
-Backend : SQLITE
+---
 
-Database & Cloud : GOOGLE CLOUD SERVICES
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" />
+</p>
 
-Tools : REPLIT, GOOGLE AI STUDIO, GROK, CHATGPT, BOLT, ELEVENLABS, etc...
+---
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres&theme=dark" />
+</p>
+
+---
+
+### ☁️ Cloud & Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,firebase&theme=dark" />
+</p>
+
+---
+
+### 🧠 AI & Productivity Tools
+<p align="center">
+  <img sr
+
 
 ## 📊 GitHub Stats
 
