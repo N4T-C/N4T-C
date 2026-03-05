@@ -1,4 +1,4 @@
-# Hi, I'm N4T-C 👋
+# Hi, I'm Nathaniel Christian ... but you can call me NatC 👋
 
 > Building practical solutions — from traffic simulators to campus food apps.
 
